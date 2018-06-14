@@ -1,0 +1,9 @@
+@media screen and (min-width:700px) {
+    .udacity-logo {
+        height:60%;
+        width:60%;
+    }
+    .center-image {
+        margin:2%;
+    }
+}
