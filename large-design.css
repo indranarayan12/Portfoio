@@ -1,3 +1,5 @@
+/*Applicable for only when mininum width of the browser is greater than 700px*/
+
 @media screen and (min-width:700px) {
     .udacity-logo {
         height:60%;
